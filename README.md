@@ -1,2 +1,1 @@
-# alura-oo-python
-Curso de Orientação Objetos com Python
+#Curso de Orientação Objetos com Python
